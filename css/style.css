@@ -10,7 +10,8 @@ body {
   margin: 0;  
   font-family: 'Roboto Regular', sans-serif;
   font-weight: 300;
-background: var(--background-color);
+  color: white;
+background-image: url("../images/gif.gif")
 }
 
 
