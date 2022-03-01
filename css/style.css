@@ -187,9 +187,13 @@ padding: 1em;
   text-decoration-color: var(--body-color); 
 }
 
-.page-item p a {
+.page-item a {
   color: blue;
   text-decoration-color: var(--body-color); 
+}
+
+.page-item a:hover {
+  color: var(--body-color);
 }
 
 
