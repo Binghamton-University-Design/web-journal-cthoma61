@@ -188,7 +188,7 @@ padding: 1em;
 }
 
 .page-item p a {
-  color: var(--body-color);
+  color: blue;
   text-decoration-color: var(--body-color); 
 }
 
